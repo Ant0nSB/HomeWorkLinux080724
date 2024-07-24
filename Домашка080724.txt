@@ -1,0 +1,63 @@
+  949  cd /opt/21052024_mornung
+  950  cd /opt/21052024_morning
+  951  mkdir homeWork/Anton Schellhorn Blaschewitsch
+  952  cat /21052024_morning
+  953  mkdir homeWork/Anton Schellhorn-Blaschewitsch
+  954  mkdir homeWork/"Anton Schellhorn-Blaschewitsch"
+  955  cat /opt/21052024_morning
+  956  ls -al
+  957  mkdir /opt/21052024_morning/ Anton Schellhorn-Blaschewitsch/homework
+  958  mkdir /opt/21052024_morning/"Anton Schellhorn-Blaschewitsch"/homework
+  959  history
+  960  cd /opt/21052024_morning/"Anton Schellhorn-Blaschewitsch
+  961  cd /opt/21052024_morning/"Anton Schellhorn-Blaschewitsch"
+  962  ls -al
+  963  history
+  964  pwd
+  965  cat /opt/21052024_morning/"Anton Schellhorn-Blaschewitsch"
+  966  ls -al /opt/21052024_morning/"Anton Schellhorn-Blaschewitsch"
+  967  history
+  968  ssh
+  969  cd /opt/21052024_morning
+  970  ls -al
+  971  exit
+  972  /opt/21072024_morning/"Anton Schellhorn-Blaschewitsch"
+  973  cat /opt/21052024/"Anton Schellhorn-Blaschewitsch"
+  974  cat ./21052024_morning/
+  975  cat /opt/21052024
+  976  cd /opt/21052024_morning
+  977  cat /opt/21052024
+  978  /opt/21072024_morning/"Anton Schellhorn-Blaschewitsch"
+  979  ls -al /opt/21052024_morning/"Anton Schellhorn-Blaschewitsch"
+  980  ls -al /opt/21052024_morning/
+  981  ls -al /opt/21052024_morning/"Anton Schellhorn-Blaschewitsch"
+  982  mkdir /opt/21052024_morning/Anton_SB
+  983  ls -al
+  984  rm -r Anton
+  985  ls -al
+  986  rm -r "Anton Schellhorn-Blaschewitsch"
+  987  ls -al
+  988  rm -r Blaschewitsch
+  989  ls -al
+  990  rm -r Schellhorn-Blaschewitsch
+  991  ls -al
+  992  rm -r Schellhorn
+  993  ls -al
+  994   cd /opt/21052024_morning/Anton_SB
+  995  touch myfirstbashscript.sh
+  996  chmod +x myfirstbashscript.sh
+  997  vi myfirstbashscript.sh
+  998  exit
+  999  /opt/21052024_morning/Anton_SB
+ 1000  chmod +x myfirstbashscript.sh
+ 1001  ./myfirstbashscript.sh
+ 1002  opt/21020245_/myfirstbashscript.sh
+ 1003  cd /opt/21052024_morning/Anton_SB
+ 1004  chmod +x myfirstbashscript.sh
+ 1005  ./myfirstbashscript.sh
+ 1006  vi ./myfirstbashscript.sh
+ 1007   ./myfirstbashscript.sh
+ 1008  vi ./myfirstbashscript.sh
+ 1009  ./myfirstbashscript.sh
+ 1010  history
+[ec2-user@ip-172-31-33-20 Anton_SB]$
